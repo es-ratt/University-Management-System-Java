@@ -42,6 +42,7 @@ Modular Programming
 This project was built to strengthen practical knowledge of backend application development, database management, and software architecture using Java. The system is designed to be expandable, allowing future implementation of additional modules such as teacher management, course enrollment, attendance tracking, grading systems, and graphical user interfaces.
 
 **The project demonstrates:**
+
 Real-world problem solving
 <br>
 Database-driven application development
