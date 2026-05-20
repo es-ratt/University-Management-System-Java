@@ -55,5 +55,3 @@ Scalable software development practices
 **Author**
 <br>
 @es-ratt
-
-It is suitable for showcasing on GitHub, LinkedIn, academic portfolios, and software engineering internship applications.
