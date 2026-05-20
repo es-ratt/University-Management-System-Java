@@ -23,9 +23,7 @@ DAO pattern implementation
 Menu-driven console interface
 
 **Core programming concepts and technologies used in this project:**
-Java
-<br>
-Object-Oriented Programming (Encapsulation, Abstraction)
+Java Object-Oriented Programming (Encapsulation, Abstraction)
 <br>
 JDBC
 <br>
